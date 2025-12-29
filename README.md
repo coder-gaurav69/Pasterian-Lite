@@ -211,26 +211,4 @@ bash
 Copy code
 rm -rf node_modules package-lock.json
 npm install
-📜 License
-MIT License
 
-🤝 Contributing
-Pull requests are welcome!
-Please ensure your code follows the existing style and includes tests.
-
-❤️ Support
-For issues or feature requests, please open an issue on GitHub.
-
-⭐ Built with love for the developer community
-yaml
-Copy code
-
----
-
-If you want, I can also:
-✅ Add badges (Node, MongoDB, License)  
-✅ Make it more **portfolio-ready**  
-✅ Add screenshots section  
-✅ Shorten it for recruiters  
-
-Just tell me 👍
